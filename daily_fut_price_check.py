@@ -61,4 +61,4 @@ if wrong_num>10:
     print('*'*20)
     os.system('/home/lzx/anaconda3/envs/my_py_env/bin/python3.8 /shared/strategy_data/JK_daily_update.py')
     
-
+# test for git
